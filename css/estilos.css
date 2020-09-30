@@ -20,3 +20,10 @@ body{
     margin-top: 0;
     text-align: left;
 }
+
+#footer{
+    background: sienna;
+    padding: 0.5em;
+    text-align: center;
+    color: white;
+}
